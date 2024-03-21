@@ -1,0 +1,105 @@
+footer {
+    
+    width:100%;
+    bottom:0px;
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-align: center;
+    border-top: 2px solid black;
+    background-color : lightsalmon;
+    position: fixed; }
+
+body{
+    background-color: black;
+    margin: 0;
+    width:100%;
+}
+h1 {     
+    color: grey;
+    
+    margin-top:2.1%;
+    float:right;
+    margin-top: 3.5%;
+}
+main p{
+    color: white;
+}
+h2 {     
+    color: white;
+}
+header {
+    background-color : black;   
+    border-bottom: 3px solid white;
+}
+main {
+    height: 75%;
+    width: 98%;
+    
+}
+.Cover {
+    display: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+}
+.headerImage{
+    position: relative;
+    margin-top: 1.5%;
+    left: 1.5%;
+    width: 10%;
+    border:2px solid black;
+    border-radius:10px
+}
+.EAFC{
+    float: left;
+    width: 30%;
+    display: block;
+    margin-bottom:2%;
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid black;
+}
+.DoomEternal{
+    float: left;
+    width: 30%;
+    display: block;
+    margin-bottom:2%;
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid black;
+}
+.RedDeadRedemption2{
+    float: left;
+    width: 30%;
+    display: block;
+    margin-bottom:2%;
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid black;
+}
+
+nav{
+    width: 100%;
+    height: 75px;
+    background: red;
+}
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+    position: relative;
+    top:35%
+}
+nav ul li{
+    background-color: grey;
+    display: inline;
+    padding: 15px;
+    margin:5px;
+    border:2px solid rgb(192, 228, 12);
+    border-radius:10px
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
